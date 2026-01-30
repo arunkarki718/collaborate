@@ -3,3 +3,5 @@ hello there. this is my first text.
 This is my second text.
 
 This is my third text. First after forking it.
+
+This is made by another collaborator
